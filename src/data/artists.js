@@ -145,7 +145,25 @@ const artists = [
     country: 'USA',
     tags: [],
     aboutMe: '#11',
+    moreInfo: '',
     profilePhotoUrl: [],
+  },
+  {
+    fbId: 'i7JKWYHwDCb46axm3GOOWOaqcVs2',
+    name: 'Asher Feehan',
+    initials: 'AF',
+    email: 'afeehan@example.com',
+    displayEmail: true,
+    city: 'Austin',
+    state: 'TX',
+    country: 'USA',
+    tags: [],
+    aboutMe:
+      'Hi! My name is Asher, I’m a creative geek from Australia. I enjoy creating eye candy art for commercial and residential structures.',
+    moreInfo: 'asherfeehan.com',
+    profilePhotoUrl: [
+      `${process.env.CLOUD_UPLOAD_URL}/v1631822180/profile/ovexv2t2gzer1yekklwf.png`,
+    ],
   },
 ];
 

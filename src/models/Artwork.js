@@ -1,8 +1,7 @@
 import mongoose from 'mongoose';
-
 const reviewSchema = mongoose.Schema(
   {
-    name: { type: String, required: true },
+    name: { type: String, required: true, trim: true },
     rating: { type: Number, required: true },
     comment: { type: String, required: true },
     reviewerFbId: {

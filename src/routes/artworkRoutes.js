@@ -26,7 +26,7 @@ router.post('/artwork', async (req, res) => {
   let photoUrls = req.body.photoUrls.length
     ? req.body.photoUrls
     : [
-        `${process.env.CLOUD_UPLOAD_URL}/v1622603982/artwork/ruted2kbher2sknkeqsu.jpg`,
+        `${process.env.CLOUD_UPLOAD_URL}/v1631823440/artwork/hf65gnbsxwvzjvz348zx.jpg`,
       ];
 
   try {

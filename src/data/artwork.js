@@ -12,7 +12,7 @@ const artwork = [
     tags: [],
     photoUrls: [
       `${process.env.CLOUD_UPLOAD_URL}/v1621983027/artwork/mbrtnfez3amzo5wuqxww.jpg`,
-      `${process.env.CLOUD_UPLOAD_URL}/v1621983027/artwork/dmwuolxiv6tuohfautll.jpg`,
+      `${process.env.CLOUD_UPLOAD_URL}/v1631741516/artwork/rvfrhkhgssvz8gac5pb2.jpg`,
     ],
     coords: [-97.7813573891608, 30.244331187271747],
   },
@@ -36,7 +36,7 @@ const artwork = [
     address: 'East 7th St at Neches St',
     year: 2016,
     aboutText:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Photo credit: streetbeatseats.com, Google StreetView.',
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Photo credit: Google StreetView, streetbeatseats.com.',
     tags: [],
     photoUrls: [
       `${process.env.CLOUD_UPLOAD_URL}/v1621991645/artwork/kgcrax3xydfk5zgnznkn.jpg`,
@@ -110,7 +110,7 @@ const artwork = [
     photoUrls: [
       `${process.env.CLOUD_UPLOAD_URL}/v1621993533/artwork/ltujedktnmxovnyyirfc.jpg`,
       `${process.env.CLOUD_UPLOAD_URL}/v1621993470/artwork/acebjoss8oeudmaaglo8.jpg`,
-      `${process.env.CLOUD_UPLOAD_URL}/v1621993470/artwork/acebjoss8oeudmaaglo8.jpg`,
+      `${process.env.CLOUD_UPLOAD_URL}/v1621993470/artwork/yxudxg46wasafqqwl6b2.jpg`,
     ],
     coords: [-97.75224154498048, 30.275092203253],
   },
@@ -184,6 +184,44 @@ const artwork = [
       `${process.env.CLOUD_UPLOAD_URL}/v1621996475/artwork/dcbdamptxrojl4ifaaag.jpg`,
     ],
     coords: [-97.75911191534367, 30.280589496024003],
+  },
+  {
+    artistFbId: 'i7JKWYHwDCb46axm3GOOWOaqcVs2',
+    title: 'Flowers #3',
+    address: '1476 E 6th St',
+    year: 2019,
+    aboutText:
+      'This was the second of a series called "Flowers", using stencils and spray paint. 12 foot wide by 9 foot high. Took 4 days to complete.',
+    tags: [],
+    photoUrls: [
+      `${process.env.CLOUD_UPLOAD_URL}/v1631823331/artwork/f65fs9nokr7iykx0kusx.jpg`,
+    ],
+    coords: [-97.7275020736157, 30.26362698179951],
+  },
+  {
+    artistFbId: 'i7JKWYHwDCb46axm3GOOWOaqcVs2',
+    title: 'Cheers Mate',
+    address: '7454 W Lynn St',
+    year: 2018,
+    aboutText:
+      'This was a fun one. Got to paint a low hanging ceiling panel that stretched 11 feet by 3 feet. Took 3 days for this one.',
+    tags: [],
+    photoUrls: [
+      `${process.env.CLOUD_UPLOAD_URL}/v1631823319/artwork/zqimtuvrmvwaxtbzezeq.jpg`,
+    ],
+    coords: [-97.75973287380401, 30.27939120314046],
+  },
+  {
+    artistFbId: '9H9fx9RYAtOYleTZ7F4PzzReFuO2',
+    title: 'Hello World',
+    address: '550 S 4th Ave',
+    year: 2021,
+    aboutText: 'My newest masterpiece.',
+    tags: [],
+    photoUrls: [
+      `${process.env.CLOUD_UPLOAD_URL}/v1631823440/artwork/hf65gnbsxwvzjvz348zx.jpg`,
+    ],
+    coords: [],
   },
 ];
 

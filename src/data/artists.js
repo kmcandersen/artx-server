@@ -48,7 +48,7 @@ const artists = [
       'David "MEGGS" Hooke is a mural, street and fine artist recognized for his large scale murals and detailed paintings that combine elements of nature, industry and abstraction to create imagery that evokes a sense of flowing movement and change. (artist website)',
     moreInfo: 'davidmeggshooke.com',
     profilePhotoUrl: [
-      `${process.env.CLOUD_UPLOAD_URL}/v1622603616/profile/xt1pefj39c0rpby1kjdg.jpg`,
+      `${process.env.CLOUD_UPLOAD_URL}/v1631911609/profile/rdca5neallfa5nddhd6n.jpg`,
     ],
   },
   {
@@ -64,7 +64,7 @@ const artists = [
     aboutMe: 'Lorem ipsum domor sit amet.',
     moreInfo: '',
     profilePhotoUrl: [
-      `${process.env.CLOUD_UPLOAD_URL}/v1622603616/profile/doohxcockfmgkwvdtf1y.jpg`,
+      `${process.env.CLOUD_UPLOAD_URL}/v1631911622/profile/slcdhhm6nhbpxdesgleg.jpg`,
     ],
   },
   {
@@ -81,7 +81,7 @@ const artists = [
       'My name is Jade, and I create from the Muses of DMZL ("damsel", in delight, maybe disguise...but never in distress!) I create installation art, wearable art, talking art, costumes, songs, etc! (etsy.com/people/jadefusco1)',
     moreInfo: 'instagram.com/DMZL_in_delight',
     profilePhotoUrl: [
-      `${process.env.CLOUD_UPLOAD_URL}/v1622603616/profile/knyg5li0rgvrkyxyylld.jpg`,
+      `${process.env.CLOUD_UPLOAD_URL}/v1631911287/profile/obmtqhb8sub813pbx6he.jpg`,
     ],
   },
   {
@@ -131,7 +131,7 @@ const artists = [
       'Daniel Johnston was an artist and musician who passed away in 2019. The city of Austin recognizes January 22, Johnston\'s birthday, as "Hi, How Are You Day" to encourage discussion of mental health issues.',
     moreInfo: '',
     profilePhotoUrl: [
-      `${process.env.CLOUD_UPLOAD_URL}/v1622603616/profile/nbrbipj9fzusmo1xjtal.jpg`,
+      `${process.env.CLOUD_UPLOAD_URL}/v1631911604/profile/u5bw8czmo8oxsodqlbzo.jpg`,
     ],
   },
   {
